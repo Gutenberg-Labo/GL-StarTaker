@@ -1,0 +1,40 @@
+This file provides detailed information on the GL-StarTaker font Software.
+https://github.com/Gutenberg-Labo/GL-StarTaker
+
+
+GL-StarTaker Font - Glyphs List
+
+* Latin Alphabet
+AÁĂÂÄÀĀĄÅÃÆBCĆČÇĊDĎĐÐEÉĔĚÊËĖÈĒĘẼFGĞĢĠHĦIÍĬÎÏİÌĪĮĨJKĶLĹĽĻŁMNŃŇŅÑOÓŎÔÖÒŐŌØÕŒPÞQRŔŘSŚŠŞȘẞTŤȚUÚŬÛÜÙŰŪŲŮŨVWẂŴẄẀXYÝŶŸỲȲỸZŹŽŻ
+aáăâäàāąåãæbcćčçċdďđðeéĕěêëėèēęẽfgğģġhħiıíĭîïìīįĩjȷkķlĺľļłmnńňņñoóŏôöòőōøõœpþqrŕřsśšşșßſtťțuúŭûüùűūųůũvwẃŵẅẁxyýŷÿỳȳỹzźžżﬁﬂ[idotaccent][f_f]
+ªº
+
+* Greek Alphabet
+ΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΆΈΉΊΌΎΏΪΫϏ
+ἈἉἊἋἌἍἎἏᾺΆᾸᾹᾼᾈᾉᾊᾋᾌᾍᾎᾏἘἙἚἛἜἝῈΈἨἩἪἫἬἭἮἯῊΉῌᾘᾙᾚᾛᾜᾝᾞᾟἸἹἺἻἼἽἾἿῚΊῘῙὈὉὊὋὌὍῸΌῬὙὛὝὟῪΎῨῩὨὩὪὫὬὭὮὯῺΏῼᾨᾩᾪᾫᾬᾭᾮᾯ
+[Alphaprosgegrammeni.salt][Alphapsiliprosgegrammeni.salt][Alphadasiaprosgegrammeni.salt][Alphapsilivariaprosgegrammeni.salt][Alphadasiavariaprosgegrammeni.salt][Alphapsilioxiaprosgegrammeni.salt][Alphadasiaoxiaprosgegrammeni.salt][Alphapsiliperispomeniprosgegrammeni.salt][Alphadasiaperispomeniprosgegrammeni.salt][Etaprosgegrammeni.salt][Etapsiliprosgegrammeni.salt][Etadasiaprosgegrammeni.salt][Etapsilivariaprosgegrammeni.salt][Etadasiavariaprosgegrammeni.salt][Etapsilioxiaprosgegrammeni.salt][Etadasiaoxiaprosgegrammeni.salt][Etapsiliperispomeniprosgegrammeni.salt][Etadasiaperispomeniprosgegrammeni.salt][Omegaprosgegrammeni.salt][Omegapsiliprosgegrammeni.salt][Omegadasiaprosgegrammeni.salt][Omegapsilivariaprosgegrammeni.salt][Omegadasiavariaprosgegrammeni.salt][Omegapsilioxiaprosgegrammeni.salt][Omegadasiaoxiaprosgegrammeni.salt][Omegapsiliperispomeniprosgegrammeni.salt][Omegadasiaperispomeniprosgegrammeni.salt]
+αβγδεζηθικλμνξοπρςστυφχψω
+ίϊΐύϋΰόώάέήϗἀἁἂἃἄἅἆἇὰάᾶᾰᾱᾳᾲᾴᾀᾁᾂᾃᾄᾅᾆᾇᾷἐἑἒἓἔἕὲέἠἡἢἣἤἥἦἧὴήῆῃῂῄᾐᾑᾒᾓᾔᾕᾖᾗῇἰἱἲἳἴἵἶἷὶίῖῐῑῒΐῗὀὁὂὃὄὅὸόῤῥὐὑὒὓὔὕὖὗὺύῦῠῡῢΰῧὠὡὢὣὤὥὦὧὼώῶῳῲῴᾠᾡᾢᾣᾤᾥᾦᾧῷιͺ[prosgegrammeni.salt]
+
+* Numerals
+0123456789
+½¼¾¹²³⁴
+
+* Spaces
+[space][nbspace][enspace][emspace][thinspace][zerowidthspace][zeroWidthNoBreakSpace]
+
+* Punctuation
+·;
+.,:;…!¡?¿·•*#//⁄\-­–—_(){}[]‚„“”‘’«»‹›"'
+
+* Diacritical Marks
+΄΅᾿᾽῾῍῝῎῞῏῟῭΅῁`´῀
+[tonos.case][psili.case][koronis.case][dasia.case][dasiavaria.case][psilioxia.case][dasiaoxia.case][psiliperispomeni.case][dasiaperispomeni.case][dialytikavaria.case][dialytikaoxia.case][dialytikaperispomeni.case][varia.case][oxia.case][perispomeni.case][psilivaria.case]
+¨˙`´˝ˆˉˇ˘˚˜¯¸˛ʼʻ
+ ̈ ̇ ̀ ́ ̋ ̂ ̌ ̆ ̊ ̃ ̄ ̦ ̧ ̨
+
+* Symbols
+ʹ͵ƒ♈♉♊♋♌♍♎♏♐♑♒♓⛎@&¶§©®™°′″|¦†ℓ‡℮�¢¤$€£¥∙∕+−×÷=≠><≥≤±≈~¬^∞∫Ω∆∏∑√µ∂%‰↑↓◊
+
+* Others
+[.notdef][NULL][CR]
